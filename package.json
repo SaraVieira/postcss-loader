@@ -10,19 +10,28 @@
     "lib"
   ],
   "dependencies": {
+    "cssnano": "^3.10.0",
     "postcss": "^6.0.2",
     "postcss-cssnext": "^2.11.0",
+    "postcss-image-set-polyfill": "^0.3.5",
     "postcss-load-config": "^1.2.0",
-    "postcss-smart-import": "^0.7.4",
-    "cssnano": "^3.10.0",
+    "postcss-smart-import": "^0.7.4"
   },
   "devDependencies": {
     "standard": "^10.0.2",
-    "standard-version": "^4.1.0",
+    "standard-version": "^4.1.0"
   },
   "scripts": {
     "release": "standard-version",
     "lint": "eslint lib/index.js"
+  },
+  "standard": {
+    "env": {
+      "jest": true
+    },
+    "ignore": [
+      "*.test.js"
+    ]
   },
   "keywords": [
     "css",

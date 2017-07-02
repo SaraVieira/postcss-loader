@@ -27,7 +27,7 @@ Any other options or plugins would be awesome !
 * [cssnext](https://www.cssnext.io)
 * [postcss-smart-import](https://github.com/sebastian-software/postcss-smart-import)
 * [cssnano](http://cssnano.co/)
-* [postcss-image-set-polyfill](https://github.com/jonathantneal/postcss-write-svg)
+* [postcss-image-set-polyfill](https://github.com/SuperOl3g/postcss-image-set-polyfill)
 
 <h2 align="center">Usage</h2>
 

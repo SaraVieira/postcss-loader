@@ -78,7 +78,7 @@ test.skip('Validation Error', () => {
 /* 1 */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed: TypeError: config.plugins.map is not a function\n    at Object.loader (/Users/saravieira/Projects/skyva-loader/lib/index.js:40:20)");
+throw new Error("Module build failed: TypeError: config.plugins.map is not a function\n    at Object.loader (/Users/saravieira/Projects/skyva-loader/lib/index.js:43:20)");
 
 /***/ })
 /******/ ]);

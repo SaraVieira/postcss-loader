@@ -3,7 +3,7 @@
     alt="Skyva Logo"
     src="http://i.imgur.com/i9ZwJlR.png">
   <h1>Skyva Loader</h1>
-  <h2>A postCSS loader with awesome presets to write future proof CSS</h2>
+  <h2>A postCSS loader with awesome presets to help you write future proof CSS</h2>
 </div>
 
 <h2 align="center">Install</h2>
@@ -18,7 +18,7 @@ npm install skyva-loader --save-dev
 
 <h2 align="center">Why?</h2>
 
-Over time I started to realized I always used the same plugins for all projects and I just make copying configs from one side to the other so I decided to automate this and create a loader for the plugins and options I use and help me write future proof CSS.
+Over time I started to realize I always used the same plugins for all projects and I just kept copying configs from one side to the other so I decided to automate this and create a loader for the plugins and options I use and help me write future proof CSS.
 
 Any other options or plugins would be awesome !
 

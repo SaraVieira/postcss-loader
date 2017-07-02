@@ -1,6 +1,6 @@
 {
   "name": "skyva-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Skyva loader for webpack",
   "main": "lib/index.js",
   "engines": {

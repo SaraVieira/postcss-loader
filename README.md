@@ -24,7 +24,7 @@ Any other options or plugins would be awesome !
 
 <h2 align="center">Included Plugins</h2>
 
-* [cssnext](https://www.cssnext.io)
+* [cssnext](http://cssnext.io/)
 * [postcss-smart-import](https://github.com/sebastian-software/postcss-smart-import)
 * [cssnano](http://cssnano.co/)
 * [postcss-image-set-polyfill](https://github.com/SuperOl3g/postcss-image-set-polyfill)

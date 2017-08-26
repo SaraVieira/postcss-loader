@@ -33,6 +33,8 @@ Any other options or plugins would be awesome !
 
 ### `Add`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SaraVieira/skyva-loader.svg)](https://greenkeeper.io/)
+
 **webpack.config.js**
 ```js
 {
